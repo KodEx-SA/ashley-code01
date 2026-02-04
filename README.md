@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ashley-code01/ashley-code01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ashley 👋
 
-Here are some ideas to get you started:
+**Web Developer | Software Engineer | AI Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building and learning in public — one commit at a time.
+
+</div>
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript • Python  
+**Frameworks:** Next.js • React • Django
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ashley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashley-code01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashley-code01&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-code01&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎯 Focus Areas
+
+Code Challenges • Debugging • New Projects • Collaboration
+
+## 🌍 Connect
+
+**Committers.top:** [South Africa](https://committers.top/south_africa) • **GitHub:** [@ashley-code01](https://github.com/ashley-code01)
+
+---
+
+<div align="center">
+<i>Taking things one step at a time, doing things the right way.</i>
+</div>
