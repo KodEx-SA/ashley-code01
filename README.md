@@ -37,27 +37,30 @@
 
 </div>
 
----
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashley-code01&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=34eb5c&icon_color=34eb5c&text_color=ffffff&bg_color=0d1117" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashley-code01&theme=dark&hide_border=true&ring=34eb5c&fire=34eb5c&currStreakLabel=34eb5c&background=0d1117" width="49%" alt="GitHub Streak"/>
-
-</div>
+## 📊 **GITHUB ANALYTICS**
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-code01&layout=compact&theme=dark&hide_border=true&title_color=34eb5c&text_color=ffffff&bg_color=0d1117" width="49%" alt="Top Languages"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashley-code01&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4&title=Commits,Repositories,Stars,Followers" width="49%" alt="Trophies"/>
-
+  <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=ashley-code01&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117" width="49%" />
+  <img align="center" src="https://github-readme-streak-stats-five-roan.vercel.app?user=ashley-code01&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065" width="49%" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-code01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34eb5c&text_color=13e065&langs_count=10" width="40%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashley-code01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title_color=34eb5c&text_color=13e065" width="100%" />
+</div>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 What I'm Building
 
