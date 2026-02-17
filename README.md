@@ -30,7 +30,7 @@ I'm passionate about writing clean, maintainable code and creating innovative so
 - Responsive UI/UX implementation
 - Version control and collaborative development
 
-**📍 Location:** South Africa 🇿🇦  
+**📍 Location:** South Africa - 🇿🇦  
 **💼 Open to:** Full-time opportunities, freelance projects, and collaboration  
 **📧 Contact:** motsieashley31@gmail.com
 
